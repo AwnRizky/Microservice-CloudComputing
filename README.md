@@ -1,2 +1,4 @@
 # Microservice-CloudComputing
-Achmad Wahyu Nur Rizky
+-----------------------------
+NAMA : Achmad Wahyu Nur Rizky
+NIM  : K3521002
