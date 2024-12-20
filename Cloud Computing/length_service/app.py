@@ -1,4 +1,3 @@
-# Length Conversion Service (length_service/app.py)
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
