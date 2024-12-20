@@ -1,4 +1,3 @@
-# Temperature Conversion Service (temperature_service/app.py)
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
